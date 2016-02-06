@@ -1,6 +1,6 @@
-A basic React project starter
+# A basic React project starter
 
-Commands:
+## Commands:
 
-npm install
-./node_modules/.bin/webpack -d --watch
+1. npm install
+2. ./node_modules/.bin/webpack -d --watch
