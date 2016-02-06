@@ -27,6 +27,7 @@ var config = {
       // SASS
       {
         test: /\.scss$/,
+        include : APP_DIR,
         loader: ExtractTextPlugin.extract('css!sass')
       }
     ]

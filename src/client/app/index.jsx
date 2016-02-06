@@ -1,4 +1,4 @@
-require('../sass/style.scss');
+require('./sass/style.scss');
 import React from 'react';
 import {render} from 'react-dom';
 
